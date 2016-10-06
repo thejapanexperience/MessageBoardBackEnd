@@ -1,5 +1,5 @@
 {
-  "name": "node-http",
+  "name": "MessageBoardBackend",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -11,7 +11,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "body": "^5.1.0",
     "md5": "^2.2.1",
-    "moment": "^2.15.1"
+    "moment": "^2.15.1",
+    "uuid": "^2.0.3"
   }
 }
